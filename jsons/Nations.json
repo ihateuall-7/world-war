@@ -21,7 +21,7 @@
 		"tradeRequest": "is my trade in your intrest.",
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
-		"uniqueName": "The United Socailist  States Republic.",
+		"uniqueName": "The United Socailist  States Republics.",
 		"uniques": [],
 		"cities": ["Moscow","Stalingrad","Leningrad","Keiv","Petrograd","East Berlin",]
 			
@@ -68,6 +68,6 @@
 		"tradeRequest": "trade?.",
 		"outerColor": [213,166,120],
 		"innerColor": [43,79,83],
-		"uniqueName": "The Unite States",
+		"uniqueName": "The United States",
 		"uniques": [],
-		"cities": ["Berlin","Munich","Leipzig","Salsburg","","San Francisco","Detroit"]
+		"cities": ["The Disrict Of Coloumbia,"Cincanatti",","New York City","","San Francisco","Detroit"]
